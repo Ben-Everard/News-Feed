@@ -1,0 +1,17 @@
+.container-fluid{
+  height: 100%
+}
+
+.background {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+}
+
+.article-text {
+  position: relative;
+}
+
+.sidebar {
+  position: relative;
+}
